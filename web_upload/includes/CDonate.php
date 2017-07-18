@@ -1,35 +1,35 @@
 <?php
 /**************************************************************************
- * Эта программа является частью SourceBans ++.
- *
- * Все права защищены © 2014-2016 Sarabveer Singh <me@sarabveer.me>
- *
- * SourceBans++ распространяется под лицензией
- * Creative Commons Attribution-NonCommercial-ShareAlike 3.0.
- *
- * Вы должны были получить копию лицензии вместе с этой работой. Если нет,
- * см. <http://creativecommons.org/licenses/by-nc-sa/3.0/>.
- *
- * ПРОГРАММНОЕ ОБЕСПЕЧЕНИЕ ПРЕДОСТАВЛЯЕТСЯ «КАК ЕСТЬ», БЕЗ КАКИХ-ЛИБО
- * ГАРАНТИЙ, ЯВНЫХ ИЛИ ПОДРАЗУМЕВАЕМЫХ, ВКЛЮЧАЯ, НО НЕ ОГРАНИЧИВАЯСЬ,
- * ГАРАНТИИ ПРИГОДНОСТИ ДЛЯ КОНКРЕТНЫХ ЦЕЛЕЙ И НЕНАРУШЕНИЯ. НИ ПРИ КАКИХ
- * ОБСТОЯТЕЛЬСТВАХ АВТОРЫ ИЛИ ПРАВООБЛАДАТЕЛИ НЕ НЕСУТ ОТВЕТСТВЕННОСТИ ЗА
- * ЛЮБЫЕ ПРЕТЕНЗИИ, ИЛИ УБЫТКИ, НЕЗАВИСИМО ОТ ДЕЙСТВИЯ ДОГОВОРА,
- * ГРАЖДАНСКОГО ПРАВОНАРУШЕНИЯ ИЛИ ИНАЧЕ, ВОЗНИКАЮЩИЕ ИЗ, ИЛИ В СВЯЗИ С
- * ПРОГРАММНЫМ ОБЕСПЕЧЕНИЕМ ИЛИ ИСПОЛЬЗОВАНИЕМ ИЛИ ИНЫМИ ДЕЙСТВИЯМИ
- * ПРОГРАММНОГО ОБЕСПЕЧЕНИЯ.
- *
- * Эта программа базируется на работе, охватываемой следующим авторским
- *                                                           правом (ами):
- *
- *  * SourceBans 1.4.11
- *    Copyright © 2007-2014 SourceBans Team - Part of GameConnect
- *    Выпущено под лицензией CC BY-NC-SA 3.0
- *    Страница: <http://www.sourcebans.net/> - <http://www.gameconnect.net/>
- *
- *  * SourceBans TF2 Theme v1.0
- *    Copyright © 2014 IceMan
- *    Страница: <https://forums.alliedmods.net/showthread.php?t=252533>
+ * Este programa é SourceBans parte ++.
+ *
+ * Todos os direitos reservados © 2014-2016 Sarabveer Singh <me@sarabveer.me>
+ *
+ * SourceBans ++ está licenciado sob
+ * Atribuição-UsoNãoComercial ShareAlike- 3.0.
+ *
+ * Você deve ter recebido uma cópia da Licença em conjunto com este trabalho. Se não,
+ * Sé. <Http://creativecommons.org/licenses/by-nc-sa/3.0/>.
+ *
+ * O SOFTWARE É FORNECIDO "COMO ESTÁ", SEM QUALQUER
+ * GARANTIAS, expressa ou implícita, incluindo, mas não limitado a,
+ * ADEQUAÇÃO A UM DETERMINADO FIM E NÃO VIOLAÇÃO. EM HIPÓTESE
+ * CASO OS DETENTORES DOS DIREITOS AUTORAIS OU SEUS COLABORADORES SER RESPONSABILIZADOS POR
+ * Qualquer reclamação ou DANOS, SEJA EM UMA AÇÃO DE CONTRATO,
+ * DELITO OU DE OUTRA FORMA, DECORRENTES DE OU EM CONEXÃO COM
+ * Software ou o uso ou outras negociações
+ * SOFTWARE.
+ *
+ * Este programa é baseado na obra coberta com o seguinte copyright
+ * O direito (s):
+ *
+ * * SourceBans 1.4.11
+ * Direitos de autor © 2007-2014 SourceBans Team - Parte GameConnect
+ * Liberado sob licença CC BY-NC-SA 3,0
+ * Page: <http://www.sourcebans.net/> - <http://www.gameconnect.net/>
+ *
+ * * SourceBans TF2 Tema v1.0
+ * Direitos de autor © 2014 IceMan
+ * Page: <https://forums.alliedmods.net/showthread.php?t=252533>
  *
  ***************************************************************************/
 
