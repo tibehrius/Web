@@ -3,7 +3,7 @@
     <br/>
     SourceBans Material Admin
     <br/>
-    Based on <a href="https://sbpp.github.io/">SourceBans++ 1.5.4.7</a>
+    Baseado em <a href="https://sbpp.github.io/">SourceBans++ 1.5.4.7</a>
 </h1>
 
 ### [![GitHub release](https://img.shields.io/github/release/SB-MaterialAdmin/Web.svg?style=flat-square)](https://github.com/SB-MaterialAdmin/Web/releases/tag/release_1154) [![GitHub license](https://img.shields.io/badge/license-GPLv3-blue.svg?style=flat-square)](https://raw.githubusercontent.com/SB-MaterialAdmin/Web/v1.x/SOURCEMOD-LICENSE.txt) [![GitHub license](https://img.shields.io/badge/license-CC_BY--NC--SA_3.0-blue.svg?style=flat-square)](https://creativecommons.org/licenses/by-nc-sa/3.0/) [![GitHub forks](https://img.shields.io/github/forks/SB-MaterialAdmin/Web.svg?style=flat-square)](https://github.com/SB-MaterialAdmin/Web/network) [![GitHub stars](https://img.shields.io/github/stars/SB-MaterialAdmin/Web.svg?style=flat-square)](https://github.com/SB-MaterialAdmin/Web/stargazers) [![GitHub issues](https://img.shields.io/github/issues/SB-MaterialAdmin/Web.svg?style=flat-square)](https://travis-ci.org/SB-MaterialAdmin/Web) [![Codacy Badge](https://api.codacy.com/project/badge/Grade/6b7e0466d68a422ab334939dabb4b06c)](https://www.codacy.com/app/SB-MaterialAdmin/Web)
