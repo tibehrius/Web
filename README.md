@@ -23,5 +23,5 @@ Autores: [AS.^TRO](http://hlmod.ru/members/79776/), [SAZONISCHE](http://hlmod.ru
 * [SourceBans :: MATERIAL](http://mmcs.pro/sourcebans/)
 * [[ G-44.RU ] :: Bans](http://bans.g-44.ru/)
 * [gmode.ru - SourceBans](https://gmode.ru/sourcebans/)
-* [Игровой проект :: L4D-Zone.RU - Комплекс игровых серверов](https://l4d-zone.ru/)
+* [Projeto :: L4D-Zone.RU - Servidores](https://l4d-zone.ru/)
 * [SourceBans Final Night](http://final-night.ru/bans/)
